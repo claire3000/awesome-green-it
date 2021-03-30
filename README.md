@@ -20,7 +20,7 @@ Une liste de liens sur [l'éco-TIC](https://fr.wikipedia.org/wiki/Informatique_d
 ## Emissions / colloques / webinaires
 
 - [Colloque Sobriété Numérique du Cigref - 26 novembre 2020](https://primetime.bluejeans.com/a2m/events/playback/979e1393-b36f-4d6b-9db1-2b14a1dd024b)
-- [Faut-il faire des usages un levier de la sobriété numérique ? - organisé par Renaissance Numérique et le Conseil National du Numérique - 25/03/2021 : discussions sur les besoins de mesures de l’empreinte écologique du numérique et sur les pistes pour outiller utilisateurs et professionnels](https://fgifrance.medium.com/faut-il-faire-des-usages-un-levier-de-la-sobri%C3%A9t%C3%A9-num%C3%A9rique-6b1f343e6962) 
+- [Faut-il faire des usages un levier de la sobriété numérique ? - Atelier du Forum de la Gouvernance d'Internet organisé par Renaissance Numérique et le Conseil National du Numérique - 25/03/2021 : discussions sur les besoins de mesures de l’empreinte écologique du numérique et sur les pistes pour outiller utilisateurs et professionnels](https://fgifrance.medium.com/faut-il-faire-des-usages-un-levier-de-la-sobri%C3%A9t%C3%A9-num%C3%A9rique-6b1f343e6962) 
 
 ## Livres
 
